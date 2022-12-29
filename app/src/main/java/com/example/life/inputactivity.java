@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
+// change 1
 public class inputactivity extends AppCompatActivity {
     Button b1;
     EditText e1,e2,e3,e4;
